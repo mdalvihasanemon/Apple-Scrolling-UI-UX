@@ -1,5 +1,6 @@
 # Apple-Scrolling-UI-UX
 Check out our UI/UX design exploration for a Apple Site Scroll.
+![logo](https://github.com/mdalvihasanemon/Apple-Scrolling-UI-UX/blob/main/Minimalist%20Neutral%20Multi%20Device%20Computer%20Mockup%20Website%20Launch%20Instagram%20Post.png)
 
 Experience the entire design process in action by watching the video linked below.
 
